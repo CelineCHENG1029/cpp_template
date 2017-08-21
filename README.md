@@ -1,2 +1,2 @@
-# c-_template_train
+# cpp_template
 Codes from C++ template - The complete guide
